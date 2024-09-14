@@ -3,7 +3,7 @@ GROUP PROJECT
 
 2024.4
 
-Group member names:lz22222
+Group member names: lz22222
 ,mingbao  ,qinan2
 
 # Group work break-down strategy
