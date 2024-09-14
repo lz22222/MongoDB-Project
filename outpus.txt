@@ -1,0 +1,33 @@
+lzhuo2@ug08:~/291/mini2>python3 task1_build.py 27012
+
+Time taken to insert messages: 12.96 seconds
+
+Time taken to insert senders: 0.10 seconds
+
+lzhuo2@ug08:~/291/mini2>python3 task1_query.py 27012
+Q1 Result: 19551 messages have 'ant' in their text.
+Time taken for Q1: 0.71 seconds (710.56 milliseconds)
+Q2 Result: ***S.CC has sent the greatest number of messages of 98613.
+Time taken for Q2: 0.70 seconds (698.56 milliseconds)
+Q3 Result: 15354 messages have senders with credit 0.
+Time taken for Q3: 0.55 seconds (552.55 milliseconds)
+Time taken for Q4: 0.01 seconds (13.55 milliseconds)
+
+Q1 Result: 19551 messages have 'ant' in their text.
+Time taken for Q1: 0.69 seconds (688.45 milliseconds)
+Q2 Result: ***S.CC has sent the greatest number of messages of 98613.
+Time taken for Q2: 0.54 seconds (537.21 milliseconds)
+Q3 Result: 15354 messages have senders with credit 0.
+Time taken for Q3: 0.02 seconds (18.05 milliseconds)
+
+lzhuo2@ug08:~/291/mini2>python3 task2_build.py 27012
+Time taken to insert messages with embedded sender info: 14.12 seconds
+
+lzhuo2@ug08:~/291/mini2>python3 task2_query.py 27012
+Q1 Result: 19551 messages have 'ant' in their text.
+Time taken for Q1: 0.69 seconds (688.62 milliseconds)
+Q2 Result: ***S.CC has sent the greatest number of messages of 98613.
+Time taken for Q2: 0.86 seconds (856.52 milliseconds)
+Q3 Result: 15354 messages have senders with credit 0.
+Time taken for Q3: 0.50 seconds (498.74 milliseconds)
+Time taken for Q4: 2.66 seconds (2658.18 milliseconds)
