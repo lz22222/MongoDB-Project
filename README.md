@@ -3,8 +3,7 @@ GROUP PROJECT
 Group member names:
 
 lz22222
-,mingbao  
-,qinan2
+,mingbao  ,qinan2
 
 # Group work break-down strategy
 We divide all works equally, the details are provided below:
