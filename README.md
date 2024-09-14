@@ -3,9 +3,7 @@ GROUP PROJECT
 Group member names:
 
   lz22222
-  
   mingbao  
-  
   qinan2
 
 # Group work break-down strategy
